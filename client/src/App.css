@@ -1,0 +1,450 @@
+#parallelogramRightMobile{
+  border-bottom: 56px solid orange;
+  border-left: 40.2px solid transparent;
+  
+  height: 0;
+  width: 50px;
+  float: right;
+
+}
+
+#parallelogramRightMobile img{
+  height: 30px;  
+  padding-top: 16px;  
+
+}
+
+#parallelogramRight {
+  border-bottom: 56px solid orange;
+  border-left: 40.2px solid transparent;
+  
+  height: 0;
+  width: 70px;
+  float: right;
+
+}
+
+#parallelogram {
+  width: 90px;
+  height: 100%;
+  -webkit-transform: skew(-36deg);
+     -moz-transform: skew(-36deg);
+       -o-transform: skew(-36deg);
+  background: orange;
+  position: relative;
+  left: 90.55%;
+}
+
+#parallelogramMobile{
+  width: 70px;
+  height: 100%;
+  -webkit-transform: skew(-36deg);
+     -moz-transform: skew(-36deg);
+       -o-transform: skew(-36deg);
+  background: orange;
+  position: relative;
+  left: 64.7%;
+}
+
+#parallelogramMobile img{
+  height: 30px;  
+  padding-top: 16px;  
+  padding-left: 20px;
+}
+
+#parallelogram img {
+  height: 30px;
+  padding-left: 24;
+  padding-right: 24;
+  padding-top: 16px;
+}
+
+#parallelogram2 {
+  width: 90px;
+  height: 56px;
+  -webkit-transform: skew(-36deg);
+     -moz-transform: skew(-36deg);
+       -o-transform: skew(-36deg);
+  background: orange;
+  position: absolute;
+  left: 85.8%;
+  top:0%;
+}
+
+#parallelogram2 img{
+  height: 30px;
+  padding-left: 24;
+  padding-right: 24;
+  padding-top: 16px;
+}
+
+.App {
+  text-align: center;
+  height: 100%;
+  width: 100%;
+}
+
+body{
+  background-color:#EFEFF2;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 56px;
+}
+
+
+
+.App-header {
+  background-color: #222;
+  height: 56px;
+  color: white;  
+}
+
+.searchImg{
+  background-color: #222;
+  height: 40px;
+  color: white;  
+  position: absolute;
+  top:10px;
+  left:81%;
+}
+
+
+#parallelogramRight img{
+  height: 30px;
+  padding-left: 24;
+  padding-right: 24;
+  padding-top: 16px;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+.divMainImage{
+  height: 432px;
+  width: 70%;
+  float:left;
+  background-color: white
+}
+
+.divMainImage img{
+  height: 100%;
+  width: auto;  
+}
+
+.divMainInformation{
+  height: 432px;
+  width: 30%;
+  float:right;
+  background-color: white
+}
+
+.divMainInformation td{
+  padding-top: 5px;
+  padding-left: 15px;
+}
+
+.divBottomInformation{
+  width: 100%;
+  height: 432px;
+  position:absolute;
+  bottom: 0;
+  left: 0;
+  padding-top: 8px;
+  
+}
+
+.divCarrouselInformation{
+  width: 100%px;
+  height: 166px;    
+  padding-bottom: 110px;
+}
+.divSecondInfLeft{
+  height: 100%;  
+  width: 49%;
+  float: left;
+  bottom: 0;
+  padding-top: 45px;
+  background-color:white;  
+}
+
+.divSecondInfLeft table{
+
+  background-color:white;
+}
+
+.divSeparatorMobile{
+  background: #9B9B9B;
+  height: 100px;  
+  width: 100%;
+  position:relative;
+  top: 260px;
+}
+
+.divBottomMobile{
+  background: black;
+  height: 100px;  
+  width: 100%;
+  position:relative;
+  top: 260px;
+}
+
+.divBottomMobile p{
+  color:white;
+  font-weight: normal;
+  text-align: center;
+  font-size: 12px;
+  padding-left: 10px;
+  padding-right: 10px;
+  font-family: helvetica;
+}
+
+.divCallUs{
+  background: #3FB34A;
+  height: 60px;  
+  width: 100%;  
+  position: relative;
+  top:20px;  
+  display: table;
+  text-align: center;    
+}
+
+.h4CallUsMobile{
+  text-align: center;    
+  color:white;
+  display:table-cell;
+  vertical-align:middle;
+}
+
+.h4BottomMobile{
+  text-align: center;    
+  color:white;  
+  padding-top: 20px;
+  font-family: helvetica;  
+}
+
+
+
+.divSecondInfLeftMobile{
+  height: 266px;  
+  width: 100%;
+  padding-top: 40px;
+}
+
+
+.divSecondInfRight{
+  height: 100%;  
+  width: 49%;
+  float: right;
+  padding-top: 45px;  
+  background-color:white;
+}
+
+.divSecondInfRight table{
+  background-color:white;
+}
+
+.h4Label{
+  text-align: left;
+  font-weight: normal;
+  font-family: helvetica;
+  font-size: 18;
+  padding-left: 40px;
+  padding-bottom: 4;
+}
+
+.h4LabelMobile{
+  text-align: left;
+  font-weight: normal;
+  font-family: helvetica;
+  font-size: 12px;  
+}
+
+.h4LabelBottom{
+  text-align: left;
+  font-weight: normal;
+  font-family: helvetica;
+  font-size: 18;
+}
+
+.h4LabelBottomMobile{
+  text-align: left;
+  font-weight: normal;
+  font-family: helvetica;
+  font-size: 12px;
+}
+
+.h4Model{
+  text-align: left;
+  font-weight: bold;
+  font-family: helvetica;
+  font-size: 18;
+  padding-top: 30;
+  padding-left: 40px;
+}
+
+.h4ModelMobile{
+  text-align: left;
+  font-weight: bold;
+  font-family: helvetica;
+  font-size: 18;  
+  padding-left: 40px;
+}
+
+.h4ModelBottom{
+  text-align: left;
+  font-weight: bold;
+  font-family: helvetica;
+  font-size: 18;
+  padding-left: 40px;
+}
+
+.h4ModelBottomMobile{
+  text-align: left;
+  font-weight: bold;
+  font-family: helvetica;
+  font-size: 16;
+  padding-top: 215px;
+  padding-left: 40px;
+}
+
+.h4Inf{
+  text-align: left;
+  font-weight: bold;
+  font-family: helvetica;
+  font-size: 18;
+  padding-left: 40px;
+  padding-bottom: 8;
+}
+
+.h4InfMobile{
+  text-align: left;
+  font-weight: bold;
+  font-family: helvetica;
+  font-size: 12px;  
+  padding-top: 4px;
+}
+
+
+.h4InfBottom{
+  text-align: left;
+  font-weight: bold;
+  font-family: helvetica;
+  font-size: 18;
+}
+
+.h4InfBottomMobile{
+  text-align: left;
+  font-weight: bold;
+  font-family: helvetica;
+  font-size: 12px;
+}
+
+.h4InfBottomMobile2{
+  text-align: left;
+  font-weight: normal;
+  font-family: helvetica;
+  font-size: 12px;
+}
+
+
+table{
+  padding-left: 40px;
+}
+
+.tdLabel{
+  width: 300px;
+    padding-left: 40px;
+  padding-bottom: 16px;
+  border-bottom: 1pt solid gray;
+}
+
+.tdLabelMobile{
+  width: 50%px;    
+  padding-bottom: 8px;
+  border-bottom: 1pt solid gray;
+}
+
+.tdLabelLast{
+  width: 300px;
+    padding-left: 40px;
+  padding-bottom: 16px;
+}
+
+.tdLabelLast{
+  width: 50%;    
+  padding-bottom: 8px;
+}
+
+.tdInf{
+ padding-left: 40px;
+  padding-bottom: 16px;
+  padding-right: 40px;  
+  border-bottom: 1pt solid gray;
+  width: 100px;
+}
+
+.tdInfMobile{
+  padding-bottom: 8px;  
+  border-bottom: 1pt solid gray;
+  width: 50%;
+}
+
+.tdInfLast{
+ padding-left: 40px;
+  padding-bottom: 16px;
+  padding-right: 40px;  
+  width: 100px;
+}
+
+.border-bottom: {
+  border-bottom: 1pt solid gray;
+}
+
+.container{
+   width: 300px;
+    height: 120px;  
+    display: table-cell;
+}
+
+.containerDisplay{
+   width: 728px;
+    height: 200px;      
+}
+
+.container img {
+    width: 100%;
+    height: auto;
+    padding-top: 20px;
+    padding-bottom:  8px;
+}
+
+.divMainPhotoMobile{
+  height: 256px;
+  width: 100%;
+  float:left;
+}
+
+.divMainImageMobile{
+  height: 256px;
+  width: 100%;
+  float:left;
+}
+
+.divMainImageMobile img{
+  height: 100%;
+  width: 100%;  
+}
+
+.divMainInformationMobile{
+  height: 256px;
+  width: 100%;  
+}
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+
